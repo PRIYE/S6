@@ -20,4 +20,7 @@
 
 As the learning rate increases the, the rate of model converges increases at lower iterations
 
+## Part 2
+[Code File](https://github.com/PRIYE/S6/blob/main/session_6.ipynb)
+
     
