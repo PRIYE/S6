@@ -33,7 +33,9 @@ As the learning rate increases the, the rate of model converges increases at low
 ![image](https://github.com/PRIYE/S6/assets/7592375/6c54050c-6df6-4252-a7b9-ca69f7986d51)
 
 ### Steps
-1. 
+1. Download the MNIST dataset for training and testing, convert it to tensor, normalize it and made it iterable by loading it to a loader
+2. Build a neaural network using 6 Convolution layer, 2 Max pooling layer and 3 Transition layer followed by Fully connected Layer.
+3. Load the model into gpu and started iterating with learning rate 0.01
 
    
 
