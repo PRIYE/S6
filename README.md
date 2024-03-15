@@ -10,7 +10,7 @@
 5. Using  formuale from step 4, calculate derivative of total error with respect to weights in hidden layer w1, w2, w3
 6. Using the above all derivatives, update the weights in subsequent iterations until model convergence using learning rate as a hyperparameter.
 
-###Error Comparison
+### Error Comparison
 ![Error 0.1](https://github.com/PRIYE/S6/assets/7592375/e7451234-2024-47fd-9ccf-bcfeb8829af0)
 ![Error 0.2](https://github.com/PRIYE/S6/assets/7592375/e7199710-4a76-4806-858d-ec6a4ef45c22)
 ![Error 0.5](https://github.com/PRIYE/S6/assets/7592375/fe59d67d-fde4-4e6e-8833-f190181e5697)
@@ -23,11 +23,18 @@ As the learning rate increases the, the rate of model converges increases at low
 ## Part 2
 [Code File](https://github.com/PRIYE/S6/blob/main/session_6.ipynb)
 
-###Target
+### Target
 1. 99.4% validation accuracy
 2. Less than 20k Parameters
 3. Less than 20 Epochs
 4. Have used BN, Dropout
+
+### Model Skeleton and paramters
+![image](https://github.com/PRIYE/S6/assets/7592375/6c54050c-6df6-4252-a7b9-ca69f7986d51)
+
+### Steps
+1. 
+
    
 
     
