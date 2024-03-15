@@ -19,5 +19,5 @@
 ![Error 2](https://github.com/PRIYE/S6/assets/7592375/c6cc0718-c17e-4043-bd0f-2ee5842e8a05)
 
 As the learning rate increases the, the rate of model converges increases at lower iterations
-2. 
+
     
